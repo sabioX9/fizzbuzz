@@ -14,6 +14,3 @@ def fizzbuzz(n):
 
 		else:
 			print(num)
-
-
-fizzbuzz(10)
