@@ -1,5 +1,5 @@
 # fizzbuzz application 
-
+# small modification
 
 def fizzbuzz(n):
 	for num in range(1, n+1):
